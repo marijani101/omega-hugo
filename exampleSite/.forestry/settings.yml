@@ -17,7 +17,7 @@ sections:
 - type: heading
   label: All Pages
 - type: directory
-  path: exampleSite/content/
+  path: exampleSite/content
   label: Created Pages
   create: all
   match: "**/*"
